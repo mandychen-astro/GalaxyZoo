@@ -4,7 +4,10 @@ The above notebook is my solution to the Kaggle Galaxy Zoo competition (https://
 
 The architecture of the CNN used here is summarized in this plot:
 
-![](CNN_diagram.pdf)
+<!-- ![](CNN_diagram.pdf)
+ -->
+
+<img src="CNN_diagram.pdf"></img>
 
 This model achieves \~85% accuracy:
 
