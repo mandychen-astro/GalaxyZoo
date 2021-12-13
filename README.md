@@ -7,11 +7,9 @@ The architecture of the CNN used here is summarized in this plot:
 ![alt text](CNN_diagram.png)
 
 
-<!-- <img src="CNN_diagram.pdf"></img> -->
-
 This model achieves \~85% accuracy:
 
-![alt text](accuracy.pdf)
+![alt text](accuracy.png)
 
 ## Some additional thoughts: ##
 
