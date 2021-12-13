@@ -4,7 +4,7 @@ The above notebook is my solution to the Kaggle Galaxy Zoo competition (https://
 
 The architecture of the CNN used here is summarized in this plot:
 
-![alt text](CNN_diagram.pdf)
+![alt text](CNN_diagram.png)
 
 
 <!-- <img src="CNN_diagram.pdf"></img> -->
