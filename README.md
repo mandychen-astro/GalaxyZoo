@@ -11,7 +11,7 @@ The architecture of the CNN used here is summarized in this plot:
 
 This model achieves \~85% accuracy:
 
-![](accuracy.pdf)
+![alt text](accuracy.pdf)
 
 ## Some additional thoughts: ##
 
